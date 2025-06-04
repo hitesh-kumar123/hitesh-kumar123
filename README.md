@@ -81,8 +81,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshKumar&theme=radical&show_icons=true&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HiteshKumar&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hitesh-kumar123&theme=radical&show_icons=true&hide_border=false" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hitesh-kumar123&theme=radical&hide_border=false" width="47%" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiteshKumar&theme=radical&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hitesh-kumar123&theme=radical&no-frame=true&column=7" />
 </p>
 
 ---
