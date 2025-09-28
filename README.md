@@ -93,6 +93,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hitesh-kumar123&theme=radical&no-frame=true&column=7" />
 </p>
 
+![Contributor's badge](https://github.com/user-attachments/assets/28eaabe3-e19d-4608-865e-133a1148c74f)
+<img width="291" height="291" alt="Postman - Postman API Fundamentals Student Expert - 2025-09-27 (1)" src="https://github.com/user-attachments/assets/4a25cbf1-14a1-422b-beee-fe4c85b25be5" />
+
+
 ---
 
 ### 🚀 Let’s Build Something Big!
