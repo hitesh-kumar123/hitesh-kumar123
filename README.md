@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hitesh%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20AI/ML%20Explorer&descAlignY=51&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future%2C+One+Line+at+a+Time;💻+MERN+Stack+%7C+DSA+%7C+AI%2FML+Enthusiast;⚡+Turning+Ideas+Into+Digital+Reality;🎯+Problem+Solver+%26+Code+Craftsman;🌟+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines= +Building+the+Future%2C+One+Line+at+a+Time; +MERN+Stack+%7C+DSA+%7C+AI%2FML+Enthusiast; +Turning+Ideas+Into+Digital+Reality; +Problem+Solver+%26+Code+Craftsman; +Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hitesh-kumar123&label=Profile%20Views&color=brightgreen&style=for-the-badge&logo=eye" alt="Profile Views" />
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-## 🌟 Who Am I? 
+## Who Am I?
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -29,14 +29,14 @@
 
 ### 🚀 The Journey So Far...
 
-🔥 **Passionate Creator** who believes *"Every Bug is a Feature in Disguise"*  
+🔥 **Passionate Creator** who believes _"Every Bug is a Feature in Disguise"_  
 🌱 Currently **transforming caffeine** ☕ into **scalable applications**  
 🎯 On a **mission** to solve real-world problems with **elegant code**  
-💡 **DSA** by morning, **MERN Stack** by afternoon, **AI/ML** by night!  
+💡 **DSA** by morning, **MERN Stack** by afternoon, **AI/ML** by night!
 
 <br>
 
-### ⚡ What Fuels My Code
+### What Fuels My Code
 
 <table>
 <tr>
@@ -81,17 +81,20 @@ motivation:
 
 <div align="center">
 
-### 🎨 Frontend Magic
+### Frontend Magic
+
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
 
 **HTML5** • **CSS3** • **JavaScript** • **React** • **Tailwind CSS**
 
-### ⚙️ Backend Power  
+### ⚙️ Backend Power
+
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257003-aee96b43-5c29-4bbe-8e15-29384bf8e63b.gif" width="50">
 
 **Node.js** • **Express.js** • **Java** • **Python**
 
 ### 🗄️ Data & Tools
+
 <img src="https://user-images.githubusercontent.com/74038190/212257049-2a9b9de5-6dee-43f7-8c36-eba5b94cf8a7.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257006-0b22b8c2-0798-4ada-9f3f-3a4625ee2e84.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-a4d9-4e69-a87a-682c76d96a4b.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257008-de2fec09-51d3-4954-ae55-7678b79b9bb8.gif" width="50">
 
 **MongoDB** • **MySQL** • **Git & GitHub** • **VS Code** • **Postman**
@@ -102,7 +105,7 @@ motivation:
 
 <div align="center">
 
-## 🔥 GitHub Stats & Analytics
+## GitHub Stats & Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
@@ -125,7 +128,7 @@ motivation:
 
 <div align="center">
 
-## 🏆 Achievements & Trophies
+## Achievements & Trophies
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
@@ -140,7 +143,7 @@ motivation:
 <tr>
 <td align="center" width="50%">
 <img src="https://github.com/user-attachments/assets/28eaabe3-e19d-4608-865e-133a1148c74f" width="120" alt="Contributor Badge"/>
-<br><strong>🌟 GitHub Contributor</strong>
+<br><strong> GitHub Contributor</strong>
 <br><em>Active Open Source Contributor</em>
 </td>
 <td align="center" width="50%">
@@ -156,7 +159,7 @@ motivation:
 
 <div align="center">
 
-## 🎯 My 2024 Mission
+## My 2024 Mission
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
@@ -167,6 +170,7 @@ motivation:
 <td align="center" width="50%">
 
 ### 💻 Development Goals
+
 - ✅ Master DSA in Java
 - 🔄 Build 10+ MERN Stack projects
 - 🎯 Contribute to Open Source
@@ -175,7 +179,8 @@ motivation:
 </td>
 <td align="center" width="50%">
 
-### 🧠 Learning Journey  
+### Learning Journey
+
 - 📚 Complete AI/ML course
 - 🤖 Build AI-powered apps
 - 🌐 Master System Design
@@ -189,7 +194,7 @@ motivation:
 
 <div align="center">
 
-## 💭 Code Philosophy
+## Code Philosophy
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
@@ -201,7 +206,7 @@ motivation:
 
 <div align="center">
 
-*"Every great developer was once a beginner. Every pro was once an amateur."*
+_"Every great developer was once a beginner. Every pro was once an amateur."_
 
 </div>
 
@@ -209,32 +214,37 @@ motivation:
 
 <div align="center">
 
-## 🤝 Let's Connect & Build Together
+## Let's Connect & Build Together
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-
 </div>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hitesh-kumar-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/hitesh_sundesha157)
+🌐 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hitesh-kumar-dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hitesh_kumar123)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/hitesh_sundesha157/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:hiteshdevkumar2003@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+### 💻 Coding Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hitesh-kumar123)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hitesh-kumar123/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hiteshdevkumar21)
 
 </div>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
-
 <div align="center">
 
-### 💫 *"Coding is not just about writing code, it's about solving problems and creating value."*
+### _"Coding is not just about writing code, it's about solving problems and creating value."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
-**⭐ If my code sparks your interest, star my repositories! Let's build the future together! 🚀**
+If my code sparks your interest, star my repositories! Let's build the future together!
 
 </div>
