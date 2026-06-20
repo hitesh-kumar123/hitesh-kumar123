@@ -240,6 +240,13 @@ _"Every great developer was once a beginner. Every pro was once an amateur."_
 </div>
 
 <div align="center">
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitesh-kumar123/hitesh-kumar123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitesh-kumar123/hitesh-kumar123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hitesh-kumar123/hitesh-kumar123/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### _"Coding is not just about writing code, it's about solving problems and creating value."_
 
